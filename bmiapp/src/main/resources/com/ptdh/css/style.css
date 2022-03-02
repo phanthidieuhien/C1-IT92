@@ -1,0 +1,26 @@
+GridPane {
+    -fx-background-color:lightskyblue;
+    -fx-font-family:Tahoma;
+    -fx-hgap:5;
+    
+    
+    
+}
+
+Label {
+    -fx-text-fill:red;
+}
+
+Button {
+     -fx-background-color: lightgoldenrodyellow;
+     -fx-text-fill:blueviolet;
+     
+     -fx-font-weight:40;
+}
+
+Text.subject {
+    -fx-fill: green;
+    -fx-stroke: gold;
+    -fx-stroke-width:3;
+    
+}
